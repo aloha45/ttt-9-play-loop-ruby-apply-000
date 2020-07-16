@@ -41,6 +41,6 @@ def play(board)
   turn = 0
   turn += 1
 until turn == 9
-  puts "Please enter 1-9."
+  turn (board)
 end
 end
